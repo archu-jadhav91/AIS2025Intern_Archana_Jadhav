@@ -1,4 +1,4 @@
-# Day 1 
+ 
 # Task 1 
 Operators-Types of Operators and Examples
 Data Types and Their Methods: Immutable 
