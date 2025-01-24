@@ -13,3 +13,14 @@ Common Errors in python
  for loop
  while loop
  control statement : 1.Break statement 2.Continue Statement 3.Pass statement
+
+  # Task 3
+  # Used defined function-
+  find the maximum from given.
+  sum all numbers in a list.
+  return a new list with distinct element from the first list.
+  Total number of combination.
+  Total number of peremutation.
+  Count vowels and consonant in a word.
+  function that accepts lowercase words and returns uppercase words.
+  count lower case and upper case letter.
